@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import java.time.Duration;
 
 public class ThreadMethodsDemo {
-    private static final Logger log = LoggerFactory.getLogger(SyncWithLock.class);
+    private static final Logger log = LoggerFactory.getLogger(ThreadMethodsDemo.class);
 
     static void main(String[] args) throws InterruptedException {
         //isVirtual();
